@@ -1,3 +1,3 @@
 # data-science-learning
 
-this is my first post.
+this is my first post :)
